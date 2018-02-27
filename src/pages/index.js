@@ -1,11 +1,8 @@
 import React from 'react';
 import Link from 'gatsby-link';
-import Navigation from '../components/Navigation';
 
 const IndexPage = () => (
   <div>
-
-    <Navigation />
 
     <img src="img/osp_logo.png" />
     <div>Online Documentation</div>
