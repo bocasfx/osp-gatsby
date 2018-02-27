@@ -4,7 +4,7 @@ import Link from 'gatsby-link';
 const IndexPage = () => (
   <div>
 
-    <img src="img/osp_logo.png" />
+    <img src="https://i.imgur.com/WTngZzF.png" />
     <div>Online Documentation</div>
 
     <p>Version 7.0</p>
