@@ -23,7 +23,7 @@ const Header = () => {
     >
       <h1 style={{ margin: 0 }}>
         <Link
-          to="/"
+          to="/osp-gatsby"
           style={{
             color: 'white',
             textDecoration: 'none',
@@ -32,11 +32,11 @@ const Header = () => {
           Open Systems Pharmacology
         </Link>
 
-        <Link style={linkStyle} to="/chapter1/">Chapter 1</Link>
-        <Link style={linkStyle} to="/chapter2/">Chapter 2</Link>
+        <Link style={linkStyle} to="/osp-gatsby/chapter1/">Chapter 1</Link>
+        <Link style={linkStyle} to="/osp-gatsby/chapter2/">Chapter 2</Link>
       </h1>
     </div>
-  </div>
+  </div>;
 };
 
 export default Header;
